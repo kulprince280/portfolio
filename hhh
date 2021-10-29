@@ -1,0 +1,39 @@
+
+    <section id="Look At Me" class="content-section">
+      <div class="card-group">
+  <div class="card">
+    <img src="./image/profile.jpg." class="card-img-top" alt=".Image of Me." style="width:500px;height:600px;">
+    <div class="card-body">
+      <h5 class="card-title">Princewill</h5>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="./image/profile-2.jpg." class="card-img-top" alt=".Profile-2." style="width:500px;height:600px;">
+    <div class="card-body">
+      <h5 class="card-title">Princewill and Victor Adeneji a Professinal Product Designer</h5>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="./image/profile-3.jpg." class="card-img-top" alt=".profile-3." style="width:500px;height:600px;">
+    <div class="card-body">
+      <h5 class="card-title">Princewill and Victor Adeneji a Professinal Product Designer</h5>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="./image/profile-4.jpg." class="card-img-top" alt=".profile-4." style="width:500px;height:600px;">
+    <div class="card-body">
+      <h5 class="card-title">Princewill, Delight Asaph A Content Creator, Bethel Asaph A content creator</h5>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="./image/profile-5.jpg." class="card-img-top" alt=".profile-5." style="width:500px;height:600px;">
+    <div class="card-body">
+      <h5 class="card-title">Princewill</h5>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  </section>  
